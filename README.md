@@ -30,7 +30,6 @@ The final solution, the Deep Neural Network, achieved the best performance based
 <img src="Docs\images\dnn.png" alt="DNN" width="100%">
 
 ## DataSet 
-![Pie Chart](Docs\images\piechart.png)
 <img src="Docs\images\piechart.png" alt="Pie Chart" width="100%">
 
 ## Hyperparameter Tuning
