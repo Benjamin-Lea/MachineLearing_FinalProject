@@ -27,27 +27,27 @@ The project explores multiple solutions to the design problem, utilizing various
   
 
 The final solution, the Deep Neural Network, achieved the best performance based on the defined evaluation metrics: was resource-friendly while achieving high accuracy and precision.
-<img src="Docs\images\dnn.png" alt="DNN" width="100%">
+<img src="documents\images\dnn.png" alt="DNN" width="100%">
 
 ## DataSet 
-<img src="Docs\images\piechart.png" alt="Pie Chart" width="75%">
+<img src="documents\images\piechart.png" alt="Pie Chart" width="75%">
 
 ## Hyperparameter Tuning
-<img src="Docs\images\hyperparameter_tuning.png" alt="Hyperparameter Tuning" width="100%">
+<img src="documents\images\hyperparameter_tuning.png" alt="Hyperparameter Tuning" width="100%">
 
 
 ## Results
 ### Decision Tree Classifier
-<img src="Docs\images\decisionTreeResults.png" alt="Decision Tree Results" width="50%">
+<img src="documents\images\decisionTreeResults.png" alt="Decision Tree Results" width="50%">
 
 ### Random Forest Classifier
-<img src="Docs\images\randomForestResults.png" alt="Random Forest Results" width="50%">
+<img src="documents\images\randomForestResults.png" alt="Random Forest Results" width="50%">
 
 ### Deep Neural Network
-<img src="Docs\images\dnnResults.png" alt="DNN Results" width="50%">
+<img src="documents\images\dnnResults.png" alt="DNN Results" width="50%">
 
 ### Soft Voting Ensemble
-<img src="Docs\images\softVotingResults.png" alt="Soft Voting Ensemble Results" width="50%">
+<img src="documents\images\softVotingResults.png" alt="Soft Voting Ensemble Results" width="50%">
 
 ## Conclusion and Future Work
 The project successfully developed a machine-learning-based cyber security system capable of detecting and classifying various types of cyber attacks. The Deep Neural Network emerged as the best solution, providing accurate results while consuming minimal memory space. Future work may involve further improving the system's accuracy, exploring additional machine learning algorithms, and addressing any limitations discovered during the project.
